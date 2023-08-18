@@ -1,0 +1,125 @@
+.profilepic
+{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+body{
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-style: oblique;
+}
+
+
+h1{
+    color:#66bfbf;
+    font-size: 5.625rem;
+    margin: 50px auto 0  auto ;
+    font-style:inherit;
+}
+h2{
+    color: #66bfbf;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color:indianred;
+}
+hr{
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 6%;
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 50px;
+}
+
+.bottom-cloud{
+    width: 200px ;
+    height: 150px ;
+    margin-left: 0px;
+    margin-bottom: 400px;
+}
+.top-cloud{
+   
+    width: 200px ;
+    height: 150px ;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.code-img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+.hack{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    float:right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.middle-container{
+
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+p{
+    line-height: 2;
+}
+.contact{
+    width: 40% !important;
+    margin: 40px auto 60px;
+}
+
+.buttonClass {
+    background: #34d98f;
+  background-image: -webkit-linear-gradient(top, #34d98f, #55b82b);
+  background-image: -moz-linear-gradient(top, #34d98f, #55b82b);
+  background-image: -ms-linear-gradient(top, #34d98f, #55b82b);
+  background-image: -o-linear-gradient(top, #34d98f, #55b82b);
+  background-image: linear-gradient(to bottom, #34d98f, #55b82b);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #ceeb11;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  }
+  
+  .buttonClass:hover {
+    background: #fcc93c;
+  background-image: -webkit-linear-gradient(top, #fcc93c, #d98c34);
+  background-image: -moz-linear-gradient(top, #fcc93c, #d98c34);
+  background-image: -ms-linear-gradient(top, #fcc93c, #d98c34);
+  background-image: -o-linear-gradient(top, #fcc93c, #d98c34);
+  background-image: linear-gradient(to bottom, #fcc93c, #d98c34);
+  text-decoration: none;
+  }
+  .bottom-container{
+    background-color: #55c0c0;
+    padding-top:30px ;
+
+    padding: 50px o 20px !important;
+  }
+  a{
+    color: #11999e;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+                
